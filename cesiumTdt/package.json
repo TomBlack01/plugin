@@ -7,8 +7,8 @@
     "library": "webpack --config config/webpack.library.js"
   },
   "repository": { 
-	"type”: "git", 
-	"url": "https://github.com/ngcc-tdt/plugin/tree/master/cesiumTdt"
+	"type": "git", 
+	"url": "git+https://github.com/ngcc-tdt/plugin/tree/master/cesiumTdt"
   }, 
   "keywords": [],
   "author": "",
